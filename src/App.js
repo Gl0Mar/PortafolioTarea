@@ -1,11 +1,10 @@
 import React from 'react';
+import Layout from './componet/layout/index'
 
 function App() {
   return (
     <div>
-        <p>
-          ¡Hola mundo!
-        </p>
+        <Layout/>
     </div>
   );
 }
