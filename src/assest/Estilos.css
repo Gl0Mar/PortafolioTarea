@@ -1,0 +1,29 @@
+.container-padre-app {
+  display: flex;
+  width: 100%;
+  height: 1000px;
+  background-color: coral;
+  position: absolute; }
+
+.container-padre-footer {
+  display: flex;
+  width: 100%;
+  height: 150px;
+  background-color: darkgrey;
+  align-items: flex-end;
+  justify-content: space-around; }
+
+.caja {
+  display: flex;
+  width: 32%;
+  height: 50px;
+  background-color: #fff; }
+
+.container-padre-layout {
+  display: flex;
+  width: 90%;
+  height: 800px;
+  background-color: cornsilk;
+  position: relative;
+  align-items: flex-end;
+  margin: auto; }

@@ -14,7 +14,7 @@ import Footer from './footer'
 class Layout extends Component{
     render() {
         return (
-            <div>
+            <div className="container-padre-layout">
                 <Header/>
                 <BarNav/>
                 <Asaid/>

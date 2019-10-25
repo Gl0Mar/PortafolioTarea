@@ -1,9 +1,10 @@
 import React from 'react';
-import Layout from './componet/layout/index'
+import Layout from './componet/layout'
+
 
 function App() {
   return (
-    <div>
+    <div className="container-padre-app">
         <Layout/>
     </div>
   );
